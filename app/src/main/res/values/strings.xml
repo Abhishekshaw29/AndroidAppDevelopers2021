@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cardhaar App</string>
+    <string name="full_name">Full Name*</string>
+    <string name="aadhaar_number">Aadhaar Number*</string>
+    <string name="submit">Submit</string>
+    <string name="ex_abhishek_shaw">Ex. Abhishek shaw</string>
+    <string name="verify_aadhaar_manually">Verify Aadhaar Manually</string>
+    <string name="_1024_5012_2045">"   1024    5012    2045   "</string>
+    <string name="todo"> Go Back</string>
+    <string name="gender_prompt">Choose Your Gender</string>
+    <string name="dd_mm_yyyy">"  DD   /   MM   /   YYYY  "</string>
+    <string name="ex_akshaw29_gmail_com">Ex. akshaw29@gmail.com</string>
+    <string name="gender">Gender*</string>
+    <string name="email_id">Email id*</string>
+    <string name="date_of_birth">Date of Birth*</string>
+    <string name="dob">calender</string>
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
